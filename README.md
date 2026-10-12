@@ -67,7 +67,7 @@ Algunos de los programas que encuentra en SoPI son navegadores web, antivirus, r
 - 7-Zip
 - PeaZIP
 - CCleaner Free
-- Evertything
+- Everything
 - Windows Update Blocker
 - Optimizador
 - Geek Uninstaller
